@@ -1,7 +1,7 @@
 ﻿namespace Oxide.Plugins
 {
     [Info("Patrol Heli Crash Dont Retire", "VisEntities", "1.0.0")]
-    [Description(" ")]
+    [Description("Forces patrol helicopters to crash instead of leaving the map at the end of their lifetime.")]
     public class PatrolHeliCrashDontRetire : RustPlugin
     {
         #region Fields
